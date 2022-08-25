@@ -1,0 +1,15 @@
+/home/saint/Desktop/StaticAttribute/obj/Debug/net6.0/StaticAttribute.csproj.AssemblyReference.cache
+/home/saint/Desktop/StaticAttribute/obj/Debug/net6.0/StaticAttribute.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/StaticAttribute/obj/Debug/net6.0/StaticAttribute.AssemblyInfoInputs.cache
+/home/saint/Desktop/StaticAttribute/obj/Debug/net6.0/StaticAttribute.AssemblyInfo.cs
+/home/saint/Desktop/StaticAttribute/obj/Debug/net6.0/StaticAttribute.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/StaticAttribute/bin/Debug/net6.0/StaticAttribute
+/home/saint/Desktop/StaticAttribute/bin/Debug/net6.0/StaticAttribute.deps.json
+/home/saint/Desktop/StaticAttribute/bin/Debug/net6.0/StaticAttribute.runtimeconfig.json
+/home/saint/Desktop/StaticAttribute/bin/Debug/net6.0/StaticAttribute.dll
+/home/saint/Desktop/StaticAttribute/bin/Debug/net6.0/StaticAttribute.pdb
+/home/saint/Desktop/StaticAttribute/obj/Debug/net6.0/StaticAttribute.dll
+/home/saint/Desktop/StaticAttribute/obj/Debug/net6.0/refint/StaticAttribute.dll
+/home/saint/Desktop/StaticAttribute/obj/Debug/net6.0/StaticAttribute.pdb
+/home/saint/Desktop/StaticAttribute/obj/Debug/net6.0/StaticAttribute.genruntimeconfig.cache
+/home/saint/Desktop/StaticAttribute/obj/Debug/net6.0/ref/StaticAttribute.dll
